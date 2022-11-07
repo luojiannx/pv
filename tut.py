@@ -10,3 +10,5 @@ fd(100)
 for j in range(100):
     fd(75)
     lt(100)
+    fd(80)
+    lt(92)
